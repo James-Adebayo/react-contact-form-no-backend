@@ -2,7 +2,7 @@
 Send forms submission to your email without backend
 
 # Quick Start
-Copy and paste this into your HTML file. Replace your-public-key with the key provided in your FormSend dashboard.
+Copy and paste this into your HTML file. Replace your-public-key with the key provided in your FormSend dashboard. Here: 👉https://formsend.ct.ws
 
 # React 
 ```html
