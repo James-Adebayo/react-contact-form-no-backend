@@ -18,7 +18,7 @@ export default function Contact()
 }
 ```
 
-HTML VERSION: 
+HTML VERSION: https://github.com/James-Adebayo/html-contact-form-without-backend
 
 You can style the form as you see fit.
 Live demo link: https://formsend.ct.ws/demo.html
