@@ -2,7 +2,9 @@
 Send forms submission to your email without backend
 
 # Quick Start
-Copy and paste this into your HTML file. Replace your-public-key with the key provided in your FormSend dashboard. Here: 👉https://formsend.ct.ws
+Copy and paste this into your HTML file. Replace your-public-key with the key provided in your FormSend dashboard. 
+<br />
+Here: 👉https://formsend.ct.ws/dashboard
 
 # React 
 ```html
@@ -24,17 +26,17 @@ You can style the form as you see fit.
 Live demo link: https://formsend.ct.ws/demo.html
 
 # Why Formsend?
-→ No backend code required
-→ Works with plain HTML
-→ No javascript
-→ Fast setup (under a min)
-→ Free to start
+→ No backend code required <br />
+→ Works with plain HTML <br />
+→ No javascript <br />
+→ Fast setup (under a min) <br />
+→ Free to start <br />
 
 # Use cases
-→ Portfolio
-→ Landing pages
-→ Static sites (HTML, React, Next.js)
-→ MVPs and quick builds
+→ Portfolio <br />
+→ Landing pages <br />
+→ Static sites (HTML, React, Next.js) <br />
+→ MVPs and quick builds <br />
 
 
 # Next.js
